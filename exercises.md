@@ -17,7 +17,7 @@
 ## Exercise 5
   - [ ] What is a `commit` in git. Explain and show examples of a commit in the terminal.
 
-
+## Exercise 6
   - [ ] In git, there is a way to ignore file, how is this done.
   - [ ] Create some files and intentionally ignore them.
 
